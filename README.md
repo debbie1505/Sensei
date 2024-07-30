@@ -61,4 +61,6 @@ Want to contribute? Visit the contributing.md file for more details.
 
 # License 
 
+This project is MIT-licensed. Click [here](#license.md) to learn more. 
+
 
