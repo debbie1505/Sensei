@@ -3,7 +3,7 @@
 
 
 # Sensei
-Sensei is a mentorship platform that allows high school students to match with mentors so they can get help and guidance from students who have been in the same position as them 
+Sensei is a mentorship platform that allows high school students to match with mentors to get help and guidance from students who have been in their positions. 
 
 # Features
 - Mentor matching
