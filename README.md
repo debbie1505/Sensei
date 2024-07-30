@@ -1,8 +1,20 @@
 <div text-align:center;background-color:white;width:100%;">
     <img src="https://github.com/debbie1505/Sensei/blob/main/full_logo-removebg-preview.png" alt="logo" width="100%" height="350" style="border-radius=50%;">
  </div> 
+<p text-align: center;>
+    
+  ![Static Badge](https://img.shields.io/badge/Hackathon-Empower-red?style=for-the-badge&labelColor=brown)
+  ![Static Badge](https://img.shields.io/badge/edTech-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/low_income-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+
+</p>
+
 
   
+  
+
   # Sensei
   Sensei is a mentorship platform that allows high school students to match with mentors to get help and guidance from students who have been in their positions.
 
