@@ -22,8 +22,14 @@
 # Table of content
 
 <details>
-    <summary><h2>Click to expand"</h2></summary>
-    <a href="#Features">My Heading</a>
+    <summary><h2>Click to expand</h2></summary>
+    <ol>
+   <li> <a href="#Features">Features</a></li>
+   <li><a href="#MVP">MVP</a></li>
+   <li><a href="#Tech Stack">Tech Stack</a></li>
+   <li><a href="#Contributing">Contributing</a></li>
+   <li> <a href="#License">License</a> </li>
+    </ol>
     
     
 </details>
