@@ -57,4 +57,8 @@ The minimum viable product will only have the mentor matching platform, allowing
 
 # Contributing 
 
+Want to contribute? Visit the contributing.md file for more details. 
+
 # License 
+
+
