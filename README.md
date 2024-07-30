@@ -1,5 +1,5 @@
-<div text-align:center;background-color:none;width:100%;">
-    <img src="https://github.com/user-attachments/assets/b107c775-19b9-4bc2-84b4-38b82c35c104" alt="logo" width="100%" height="350" style="border-radius=50%;">
+<div text-align:center;background-color:white;width:100%;">
+    <img src="https://github.com/debbie1505/Sensei/blob/main/full_logo-removebg-preview.png" alt="logo" width="100%" height="350" style="border-radius=50%;">
  </div> 
 
   
