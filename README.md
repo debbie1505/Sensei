@@ -11,16 +11,22 @@
 
 </p>
 
-
-  
-  
-
   # Sensei
   Sensei is a mentorship platform that allows high school students to match with mentors to get help and guidance from students who have been in their positions.
 
-# Quick links
+  >[!NOTE]
+>The website is not fully developed yet
 
-Would be badges that link to different parts of the readme
+
+
+# Table of content
+
+<details>
+    <summary><h2>Click to expand"</h2></summary>
+    <a href="#Features">My Heading</a>
+    
+    
+</details>
 
 
 # Features
